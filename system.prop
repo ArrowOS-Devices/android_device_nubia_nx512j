@@ -51,8 +51,6 @@ media.stagefright.less-secure=true
 
 ro.sys.sdcardfs=false
 
-persist.media.treble_omx=false
-
 # Perf
 ro.product.model=NX512J
 ro.config.max_starting_bg=8
