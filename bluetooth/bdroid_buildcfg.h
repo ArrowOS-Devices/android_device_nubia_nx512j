@@ -19,5 +19,5 @@
 
 #define BTM_DEF_LOCAL_NAME   "Z9MAX"
 #define BLUETOOTH_QTI_SW TRUE
-#define BLE_VND_INCLUDED   TRUE
+//#define BLE_VND_INCLUDED   TRUE
 #endif
